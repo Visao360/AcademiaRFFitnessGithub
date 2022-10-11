@@ -3,14 +3,14 @@
 ## Action
 
 ### URL
-LinkBehaviour_D8446BFB_C84E_128C_41BA_42F10F951963.source = https://api.whatsapp.com/send?phone=5522999245842&text=Ol%C3%A1!!%20Seja%20bem%20vindo%20%C3%A0%20Academia%20RF%20Fitness.%20Como%20posso%20ajudar%3F%3F
 LinkBehaviour_D6B9C8AF_C676_F4E9_41D5_CDEAC6C4EABE.source = https://api.whatsapp.com/send?phone=5522999245842&text=Ol%C3%A1!!%20Seja%20bem%20vindo%20%C3%A0%20Academia%20RF%20Fitness.%20Como%20posso%20ajudar%3F%3F
-LinkBehaviour_D0637B09_C652_D5A9_41CD_57E242E65241.source = https://www.facebook.com/pages/Academia-Rf-Fitness/405918249484648
+LinkBehaviour_D8446BFB_C84E_128C_41BA_42F10F951963.source = https://api.whatsapp.com/send?phone=5522999245842&text=Ol%C3%A1!!%20Seja%20bem%20vindo%20%C3%A0%20Academia%20RF%20Fitness.%20Como%20posso%20ajudar%3F%3F
 LinkBehaviour_D8452BFB_C84E_128C_41C2_6C65632484B0.source = https://www.facebook.com/pages/Academia-Rf-Fitness/405918249484648
-LinkBehaviour_D75B1313_C671_55B9_41E7_4CF74C815A48.source = https://www.google.com.br/maps/place/RF+Fitness+Academia/@-21.777893,-41.2921819,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5aaac190539:0xa82af33b0d4c3eee!8m2!3d-21.7779241!4d-41.2899662?hl=pt-BR
+LinkBehaviour_D0637B09_C652_D5A9_41CD_57E242E65241.source = https://www.facebook.com/pages/Academia-Rf-Fitness/405918249484648
 LinkBehaviour_D844FBFB_C84E_128C_41D2_07E00645785D.source = https://www.google.com.br/maps/place/RF+Fitness+Academia/@-21.777893,-41.2921819,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5aaac190539:0xa82af33b0d4c3eee!8m2!3d-21.7779241!4d-41.2899662?hl=pt-BR
-LinkBehaviour_D8442BFB_C84E_128C_41DE_106DCB6BEBB6.source = https://www.instagram.com/rffitnessacademia/
+LinkBehaviour_D75B1313_C671_55B9_41E7_4CF74C815A48.source = https://www.google.com.br/maps/place/RF+Fitness+Academia/@-21.777893,-41.2921819,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5aaac190539:0xa82af33b0d4c3eee!8m2!3d-21.7779241!4d-41.2899662?hl=pt-BR
 LinkBehaviour_D4613E7B_C676_CC69_41C3_7029B902F519.source = https://www.instagram.com/rffitnessacademia/
+LinkBehaviour_D8442BFB_C84E_128C_41DE_106DCB6BEBB6.source = https://www.instagram.com/rffitnessacademia/
 
 ## Media
 
